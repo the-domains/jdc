@@ -1,0 +1,28 @@
+name: jdc
+favicon: null
+layout_spectrum: 0.31494974344968796
+typography_spectrum: 0.572307797614485
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5860921444837004
+  lightness: 0.3617270716931671
+  saturation: 0.060352744068950415
+  rhythmicContrast: 0.18317547161132097
+purpose: []
